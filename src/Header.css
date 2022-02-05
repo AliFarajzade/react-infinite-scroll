@@ -1,0 +1,14 @@
+div {
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 35px;
+}
+.attribution {
+    padding: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #061833;
+}
+
+.attribution:hover {
+    filter: brightness(0%);
+}
